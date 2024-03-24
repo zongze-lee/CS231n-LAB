@@ -26,4 +26,4 @@ Assignment 3 in CS231n-LAB explores feature extraction, adversarial examples, an
 - Generative Adversarial Networks (GAN): Used for generating realistic data samples, such as images, by training a generator and discriminator network simultaneously.
 - SimCLR (Contrastive Learning): Focuses on learning effective representations from unlabeled data using contrastive loss functions, enabling better generalization and transfer learning capabilities.
 
-### PS: Some files such as cifar-10-python.tar.gz, coco_captioning are not uploaded. If you need to run the code in one click, please download the corresponding files from the address provided in the ipynb or terminal before running.
+**PS:** Some files such as cifar-10-python.tar.gz, coco_captioning are not uploaded. If you need to run the code in one click, please download the corresponding files from the address provided in the ipynb or terminal before running.
