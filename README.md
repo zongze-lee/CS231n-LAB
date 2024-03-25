@@ -1,5 +1,5 @@
 # CS231n-LAB
-This is the accompanying lab for Stanford University's computer vision course.
+This is the accompanying assignment for Stanford University's computer vision course.
 
 ## [assignment1](assignment1/)
 Assignment 1 in CS231n-LAB focuses on fundamental concepts in machine learning and neural networks. In this assignment, we implemented several key components:
